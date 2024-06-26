@@ -19,4 +19,3 @@ if smiles:
         st.image(img)
     else:
         st.error("Invalid SMILES string!")
-
